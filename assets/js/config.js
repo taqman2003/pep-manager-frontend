@@ -7,7 +7,7 @@
 
 const CONFIG = {
     // Backend API URL
-    API_BASE_URL: 'https://script.google.com/macros/s/AKfycbx1BjsbxPEIcKnBnDtKYA1rI9knBmRtHPFGy8NDgK0rYLyv6SODCsf5XWhwrAY3InnG8w/exec',
+    API_BASE_URL: 'https://script.google.com/macros/s/AKfycby4-LruWV_a6X3mbKuirctuAt9ReaOPf52yn37hMDIOPJH5NMBc_ezk8kEyS6kHMzbTyw/exec',
     
     // Local Storage Keys
     STORAGE_KEYS: {
